@@ -1,0 +1,22 @@
+main {
+	margin: 100px;
+	color:white;
+	text-align: center;
+	font-family: Sawasdee;
+	font-style: italic;
+}
+
+img {
+	opacity: 0.7;
+}
+
+span {
+	padding:1px;
+}
+
+img:hover {
+	opacity: 1;
+}
+
+#profile {
+}
